@@ -109,7 +109,7 @@ try:
     num = int(input("Enter a number ---> "))
     print("""
     \033[1;35m
-    [ Scraping IP Hosted Cameras... ]
+    [ Searching the IP of the cameras... ]
     
     """)
     if num not in range(1, 21+1):
