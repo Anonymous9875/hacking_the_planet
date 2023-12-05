@@ -83,14 +83,14 @@ print("""\033[1;37m
  \033[1;35m[29] \033[1;37mIreland                                   \033[1;35m[61] \033[1;37mArmenia                                    \033[1;35m[93] \033[1;37mMacedonia
  \033[1;35m[30] \033[1;37mIndia                                     \033[1;35m[62] \033[1;37mPortugal                                   \033[1;35m[94] \033[1;37mGuernsey
  \033[1;35m[31] \033[1;37mIndonesia                                 \033[1;35m[63] \033[1;37mCroatia                                    \033[1;35m[95] \033[1;37mParaguay
- \033[1;35m[32] \033[1;37mSouth Africa                              \033[1;35m[64] \033[1;37mTunisia                                    \033[1;35m[96] \033[1;37m-
+ \033[1;35m[32] \033[1;37mSouth Africa                              \033[1;35m[64] \033[1;37mTunisia                                    
 ==============================================================================================================================================
 
 """)
 
 try:
     print()
-    countries = ["US", "JP", "TW", "IT", "RU", "KR", "DE", "FR", "CZ", "GB", "NL","CZ", "TR", "AT", "CH", "ES", "CA", "SE", "IL", "PL", "IR","NO", "RO", "IN", "VN", "BE", "BR", "BG", "ID", "DK", "AR", "MX", "FI", "CN", "CL", "ZA", "SK", "HU", "IE", "EG", "TH", "UA", "RS", "HK", "GR", "PT", "LV", "SG", "IS", "MY", "CO", "TN", "EE", "DO", "SI", "EC", "LT", "PS", "NZ", "BD", "PA", "MD", "NI", "MT", "IT", "SA", "HR", "CY", "PK", "AE", "KZ", "KW", "VE", "GE", "ME", "SV", "LU", "CW", "PR", "CR", "BY", "AL", "LI", "BA", "PY", "PH", "FO", "GT", "NP", "PE", "UY","-"]
+    countries = ["US", "JP", "TW", "IT", "RU", "KR", "DE", "FR", "CZ", "GB", "NL", "CZ", "TR", "AT", "CH", "ES", "CA", "SE", "IL", "PL", "IR","NO", "RO", "IN", "VN", "BE", "BR", "BG", "ID", "DK", "AR", "MX", "FI", "CN", "CL", "ZA", "SK", "HU", "IE", "EG", "TH", "UA", "RS", "HK", "GR", "PT", "LV", "SG", "IS", "MY", "CO", "TN", "EE", "DO", "SI", "EC", "LT", "PS", "NZ", "BD", "PA", "MD", "NI", "MT", "IT", "SA", "HR", "CY", "PK", "AE", "KZ", "KW", "VE", "GE", "ME", "SV", "LU", "CW", "PR", "CR", "BY", "AL", "LI", "BA", "PY", "PH", "FO", "GT", "NP", "PE", "UY","-"]
     headers = {"User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0"}
 
 # google dorks
