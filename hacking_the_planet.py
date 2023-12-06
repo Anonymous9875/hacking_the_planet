@@ -67,7 +67,7 @@ print("""\033[1;37m
  \033[1;35m[13] \033[1;37mCanada                                    \033[1;35m[45] \033[1;37mEstonia                                    \033[1;35m[77] \033[1;37mSaint Kitts And Nevis
  \033[1;35m[14] \033[1;37mPoland                                    \033[1;35m[46] \033[1;37mEcuador                                    \033[1;35m[78] \033[1;37mCayman Islands
  \033[1;35m[15] \033[1;37mNorway                                    \033[1;35m[47] \033[1;37mColombia                                   \033[1;35m[79] \033[1;37mHonduras
- \033[1;35m[16] \033[1;37mNetherlands                               \033[1;35m[48] \033[1;37mBosnia And Herzegovina                     \033[1;35m[80] \033[1;37Georgiam
+ \033[1;35m[16] \033[1;37mNetherlands                               \033[1;35m[48] \033[1;37mBosnia And Herzegovina                     \033[1;35m[80] \033[1;37mGeorgiam
  \033[1;35m[17] \033[1;37mRomania                                   \033[1;35m[49] \033[1;37mIceland                                    \033[1;35m[81] \033[1;37mAlgeria
  \033[1;35m[18] \033[1;37mSweden                                    \033[1;35m[50] \033[1;37mSlovenia                                   \033[1;35m[82] \033[1;37mNew Caledonia
  \033[1;35m[19] \033[1;37mSpain                                     \033[1;35m[51] \033[1;37mMalaysia                                   \033[1;35m[83] \033[1;37mMacao
