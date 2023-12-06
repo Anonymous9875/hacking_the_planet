@@ -112,7 +112,7 @@ try:
     [ Searching the IP of the cameras... ]
     
     """)
-    if num not in range(1, 21+1):
+    if num not in range(1, 96+1):
         raise IndexError
  #API
     country = countries[num-1]
