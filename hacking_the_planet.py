@@ -90,7 +90,7 @@ print("""\033[1;37m
 
 try:
     print()
-    countries = ["US", "JP", "TW", "IT", "RU", "KR", "DE", "FR", "CZ", "AT", "CH", "GB", "CA", "PL", "NO", "NL", "RO", "SE", "ES", "VN", "BG", "DK", "IR", "BE", "BR", "TR", "RS", "SK", "IE", "IN", "ID", "ZA", "FI", "GR", "AU", "HU", "LV", "AR", "UA", "TH", "IL", "MX", "LT", "NZ", "EE", "EC", "CO", "BA", "IS", "SI", "MY", "CN", "MD", "CL", "BD", "HK", "SY", "KZ", "FO", "ME", "AM", "PT", "HR", "TN", "NI", "SG", "SA", "PA", "NG", "LU", "PE", "BY", "TT", "AO", "AW", "PR", "KN", "KY", "HN", "GE", "DZ", "NC", "MO", "BB", "GP", "GU", "AD", "CR", "LA", "TZ", "MT", "MG", "MK", "GG", "PY","-"]
+    countries = ["US(##)", "JP", "TW", "IT", "RU", "KR", "DE", "FR", "CZ", "AT", "CH", "GB", "CA", "PL", "NO", "NL", "RO", "SE", "ES", "VN", "BG", "DK", "IR", "BE", "BR", "TR", "RS", "SK", "IE", "IN", "ID", "ZA", "FI", "GR", "AU", "HU", "LV", "AR", "UA", "TH", "IL", "MX", "LT", "NZ", "EE", "EC", "CO", "BA", "IS", "SI", "MY", "CN", "MD", "CL", "BD", "HK", "SY", "KZ", "FO", "ME", "AM", "PT", "HR", "TN", "NI", "SG", "SA", "PA", "NG", "LU", "PE", "BY", "TT", "AO", "AW", "PR", "KN", "KY", "HN", "GE", "DZ", "NC", "MO", "BB", "GP", "GU", "AD", "CR", "LA", "TZ", "MT", "MG", "MK", "GG", "PY","-"]
     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36"}
 
 # google dorks
